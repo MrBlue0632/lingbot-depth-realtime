@@ -1,4 +1,4 @@
-# The versions are not specified since MoGe should be compatible with most versions of the packages. 
+# The versions are not specified since MoGe should be compatible with most versions of the packages.
 # If incompatibilities are found, consider upgrading to latest versions or installing the following recommended version of the package.
 torch           # >= 2.0.0
 torchvision
@@ -9,3 +9,4 @@ matplotlib      # ==3.9.2
 trimesh         # ==4.5.1
 pillow          # ==10.4.0
 huggingface_hub # ==0.25.2
+pyrealsense2    # Intel RealSense D435 camera support
